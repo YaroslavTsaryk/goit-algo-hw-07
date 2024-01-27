@@ -14,5 +14,7 @@ Root: 5
                 L--- 6
 
 find_biggest(root) = 8
+
 find_smallest(root) = 2
+
 sum_nodes(root) = 28
